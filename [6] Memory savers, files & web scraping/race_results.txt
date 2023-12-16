@@ -1,0 +1,23 @@
+Race Title: FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2023 
+         - RACE RESULT
+Race Date: 26 Nov 2023
+Position: 1     | No.: 1     | Driver: Max Verstappen            | Car: Red Bull Racing Honda RBPT          | Laps: 58   
+Position: 2     | No.: 16    | Driver: Charles Leclerc           | Car: Ferrari                             | Laps: 58   
+Position: 3     | No.: 63    | Driver: George Russell            | Car: Mercedes                            | Laps: 58   
+Position: 4     | No.: 11    | Driver: Sergio Perez              | Car: Red Bull Racing Honda RBPT          | Laps: 58   
+Position: 5     | No.: 4     | Driver: Lando Norris              | Car: McLaren Mercedes                    | Laps: 58   
+Position: 6     | No.: 81    | Driver: Oscar Piastri             | Car: McLaren Mercedes                    | Laps: 58   
+Position: 7     | No.: 14    | Driver: Fernando Alonso           | Car: Aston Martin Aramco Mercedes        | Laps: 58   
+Position: 8     | No.: 22    | Driver: Yuki Tsunoda              | Car: AlphaTauri Honda RBPT               | Laps: 58   
+Position: 9     | No.: 44    | Driver: Lewis Hamilton            | Car: Mercedes                            | Laps: 58   
+Position: 10    | No.: 18    | Driver: Lance Stroll              | Car: Aston Martin Aramco Mercedes        | Laps: 58   
+Position: 11    | No.: 3     | Driver: Daniel Ricciardo          | Car: AlphaTauri Honda RBPT               | Laps: 58   
+Position: 12    | No.: 31    | Driver: Esteban Ocon              | Car: Alpine Renault                      | Laps: 58   
+Position: 13    | No.: 10    | Driver: Pierre Gasly              | Car: Alpine Renault                      | Laps: 58   
+Position: 14    | No.: 23    | Driver: Alexander Albon           | Car: Williams Mercedes                   | Laps: 58   
+Position: 15    | No.: 27    | Driver: Nico Hulkenberg           | Car: Haas Ferrari                        | Laps: 58   
+Position: 16    | No.: 2     | Driver: Logan Sargeant            | Car: Williams Mercedes                   | Laps: 58   
+Position: 17    | No.: 24    | Driver: Guanyu Zhou               | Car: Alfa Romeo Ferrari                  | Laps: 58   
+Position: 18    | No.: 55    | Driver: Carlos Sainz              | Car: Ferrari                             | Laps: 57   
+Position: 19    | No.: 77    | Driver: Valtteri Bottas           | Car: Alfa Romeo Ferrari                  | Laps: 57   
+Position: 20    | No.: 20    | Driver: Kevin Magnussen           | Car: Haas Ferrari                        | Laps: 57   
